@@ -1,5 +1,7 @@
 <?php
 
+use test\News;
+
 require_once  __DIR__ . '/News.php';
 
 require_once __DIR__ . '/../vendor/autoload.php'; // Autoload files using Composer autoload

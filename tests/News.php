@@ -4,8 +4,8 @@ namespace test;
 
 require_once __DIR__ . '/../vendor/autoload.php'; // Autoload files using Composer autoload
 
-use App\Traits\FullTextSearch;
 use Illuminate\Database\Eloquent\Model;
+use Santilorenzo\FullTextSearch\Traits\FullTextSearch;
 
 class News extends Model
 {

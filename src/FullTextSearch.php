@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Traits;
+namespace Santilorenzo\FullTextSearch\Traits;
 
 trait FullTextSearch
 {
