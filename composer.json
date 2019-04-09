@@ -1,7 +1,7 @@
 {
     "name": "lorenzosanti/eloquent-fulltext-search",
     "description": "A trait to implement the mysql full text search API",
-    "license": "The Unlicense",
+    "license": "Unlicense",
     "authors": [
         {
             "name": "Lorenzo Santi",
