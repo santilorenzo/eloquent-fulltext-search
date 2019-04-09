@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-0": {
-            "FullTextSearch": "src/"
+            "Santilorenzo\\FullTextSearch\\": "src/"
         }
     },
     "require-dev": {
